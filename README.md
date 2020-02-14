@@ -26,5 +26,9 @@
 ## link to live site on GitHub Pages
       https://wizzicollo.github.io/akan-names/
 
+## Contact information
+   - mobile: 0741 280 908
+   - email: kiprutohcollo@gmail.com
+
 ## copyright and license information
       licensed under[MIT license](license).
