@@ -1,5 +1,5 @@
 # project name
-   Akan Names
+- Akan Names
 
 ## author name
 - Collins Kiprutoh
