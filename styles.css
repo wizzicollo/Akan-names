@@ -1,8 +1,8 @@
 body {
-    /* background-image: url(./images/akan6.jpeg);
+    background-image: url(./images/akan6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 300px; */
+    /* height: 300px;  */
   }
   /* * {
       margin: 0;
@@ -46,7 +46,11 @@ body {
   #navbar {
     display: flex;
     justify-content: space-between;
-    /* background-color:#00264d; */
+    background-image: url(./images/ghana5.jpeg);
+    opacity: 0.9;
+    /* background-size: cover; */
+    background-position: center;
+    /* background-repeat: no-repeat; */
     padding: 1.75rem 8rem;
     position: fixed;
     top: 0;
@@ -150,7 +154,7 @@ body {
      width: 100%;
     } */
     /* background-color: black; */
-    background-image: url(./images/key14.jpeg);
+    /* background-image: url(./images/key14.jpeg); */
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -161,7 +165,7 @@ body {
     width: 100%;
     /* background:rgba(0, 0, 0, 0.6); */
     padding: 3rem 0;
-    background-image: url(./images/akan6.jpeg);
+    /* background-image: url(./images/akan6.jpeg); */
     background-repeat: no-repeat;
     background-size: 1600px;
     height: 100vh;
@@ -240,14 +244,20 @@ body {
     font-size: 20px;
     background-color: aqua;
   }
+  .container {
+background-image: url(./images/ghana5.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+  }
   form {
-    width: 500px;
+    width: 40%;
     margin: auto;
     padding: 20px;
-    background: blueviolet;
+    /* background:#3693ff ; */
     font-size: 20px;
     font-family: verdana;
-    color: white;
+    color:black;
+    backface-visibility: hidden;
   }
   input[="years"] {
     width: 30%;
@@ -264,7 +274,7 @@ body {
     padding: 5px;
     background: white;
   }
-  ]
+  
     /* Footer */
     .bottom {
     background-color: #3693ff;
