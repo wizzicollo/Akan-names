@@ -17,10 +17,22 @@ function getAkanName() {
 	var male = document.getElementById("male");
 	var female = document.getElementById("female");
 
-	//validate date
+	//validate day
 	if (day <= 0 || day >= 32) {
 		alert(
-			"Be serious, that can't be correct. Console your guardian or parent for correct !!!DATE!!!"
+			"You have entered incorrect day! Kindly reset"
+		);
+    }
+    //validate month
+	if (month <= 0 || month >= 13) {
+		alert(
+			"You have entered incorrect month! Kindly reset"
+		);
+    }
+    //validate year
+	if (year <= 0 || year >2020) {
+		alert(
+			"You have entered incorrect year! Kindly reset"
 		);
 	}
     var day = new Date(year + "/" + month + "/" + day);
@@ -30,7 +42,7 @@ function getAkanName() {
 	if (male.checked == true) {
 		document.getElementById("alert1").style.display = "block";
 		document.getElementById("span1").innerHTML =
-			"Awesome! You were born on, " + daysWeek[dateOfBirth];
+			"You were born on, " + daysWeek[dateOfBirth];
 		document.getElementById("span2").innerHTML =
 			"your Akan Name is " + maleAkanNames[dateOfBirth];
 	} else if (female.checked == true) {
