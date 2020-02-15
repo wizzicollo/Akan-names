@@ -6,3 +6,91 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+ <table class="activities">
+                            <tr>
+                             <th>Male</th>
+                             <tr>
+                                   <td>Akosua</td>
+                                   <td>Adwoa</td>
+                                   <td>Abenaa</td>
+                                   <td>Akua</td>
+                                   <td>Yaa</td>
+                                   <td>Afua</td>
+                                   <td>Ama</td>
+                             </tr>
+                             <th>Female</th>
+                             </tr>
+                                <td>Akosua</td>
+                                <td>Adwoa</td>
+                                <td>Abenaa </td>
+                                <td>Akua</td>
+                                <td>Yaa</td>
+                                <td>Afua</td>
+                                <td>Ama</td>
+                            
+                           </tr>
+
+
+
+                        <div class="texts">
+
+                        <blockquote style="width: 500px;" float="left">
+                            <p>
+                               <ul>
+                                   <li>Kwasi</li>
+                                   <li>Kwadwo</li>
+                                   <li>Kwabena</li>
+                                   <li>Kwaku</li>
+                                   <li>Yaw</li>
+                                   <li>Kofi</li>
+                                   <li>Kwame</li>
+                               </ul>
+                            </p>
+
+
+                        </blockquote>
+
+                    </div>
+                    
+
+                    <div class="texts">
+                        <blockquote style="width: 500px;" float="left">
+                            <p>
+                                <ul>
+                                   <li>Akosua</li>
+                                   <li>Adwoa</li>
+                                   <li>Abenaa </li>
+                                   <li>Akua</li>
+                                   <li>Yaa</li>
+                                   <li>Afua</li>
+                                   <li>Ama</li>
+                                </ul>
+                               
+                            </p>
+
+                             <th>Male</th>
+                            <tr>
+                                  <td>Akosua</td>
+                                  <td>Adwoa</td>
+                                  <td>Abenaa</td>
+                                  <td>Akua</td>
+                                  <td>Yaa</td>
+                                  <td>Afua</td>
+                                  <td>Ama</td>
+                            </tr>
+
+                            <th>Female</th>
+                            </tr>
+                               <td>Akosua</td>
+                               <td>Adwoa</td>
+                               <td>Abenaa </td>
+                               <td>Akua</td>
+                               <td>Yaa</td>
+                               <td>Afua</td>
+                               <td>Ama</td>
+                           
+                          </tr>
+
+
+
+
