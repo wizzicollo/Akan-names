@@ -116,7 +116,7 @@ body {
     bottom: 0;
     right: 0;
     /* background: rgba(0, 0, 0, 0.6); */
-    background-image: url(./images/akan6.jpeg);
+    background-image: url(./images/akan5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -247,7 +247,7 @@ body {
     background-color: aqua;
   }
   .container {
-background-image: url(./images/ghana5.jpeg);
+background-image: url(./images/akan8.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
   }
@@ -257,9 +257,10 @@ background-size: cover;
     padding: 20px;
     /* background:#3693ff ; */
     font-size: 20px;
-    font-family: verdana;
-    color:black;
+    /* font-family: verdana; */
+    color:white;
     backface-visibility: hidden;
+    opacity: 0.2rem;
   }
   input[="years"] {
     width: 30%;
