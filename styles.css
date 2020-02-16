@@ -1,15 +1,9 @@
 body {
-    /* background-image: url(./images/bab7.jpeg); */
     background-repeat: no-repeat;
     background-size: cover;
-    /* height: 300px;  */
     background-color: black;
   }
-  /* * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    } */
+
   p {
     font-size: 18px;
     font-weight: bold;
@@ -20,12 +14,7 @@ body {
   html {
     font-size: 13px;
   }
-  /* body {
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.4;
-    color: #333;
-    overflow-x: hidden;
-  } */
+  
   .container {
       max-width: 1100px;
       margin: auto;
@@ -33,14 +22,8 @@ body {
   .text-primary {
     color: #3693ff;
   }
-  /* .bg-light {
-      background: #f4f4f4;
-      color: #333;
-    }  */
-  /* .bg-dark{
-      background:#333;
-      color:#fff;
-    } 
+ 
+  
     
     /* navbar */
   
@@ -49,7 +32,6 @@ body {
     justify-content: space-between;
     background-image: url(./images/ghana5.jpeg);
     opacity: 0.9;
-    /* background-size: cover; */
     background-position: center;
     /* background-repeat: no-repeat; */
     padding: 1.75rem 8rem;
@@ -58,7 +40,7 @@ body {
     z-index: 1;
     border-bottom: 0px solid 3693ff;
     text-align: right;
-    width: 150%;
+    width: 100%;
 
   }
   
@@ -286,7 +268,7 @@ flex-direction: row;
     background-color: aqua;
   }
   .container {
-background-image: url(./images/akan8.jpeg);
+background-image: url(./images/akan1.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
   }
@@ -296,7 +278,7 @@ background-size: cover;
     padding: 20px;
     /* background:#3693ff ; */
     font-size: 20px;
-    /* font-family: verdana; */
+    font-family: verdana;
     color:white;
     backface-visibility: hidden;
     opacity: 0.2rem;
@@ -304,13 +286,13 @@ background-size: cover;
   input[="years"] {
     width: 30%;
     padding: 5px;
-    font-size: 20px;
+    font-size: 30px;
   }
   input[type="days"] {
     padding: 5px;
     font-size: 18px;
     width: 30px;
-  }
+  } 
   select {
     font-size: 20px;
     padding: 5px;
@@ -319,11 +301,12 @@ background-size: cover;
 
   #span{
     background-image: url(./images/ghana1.jpeg);
-  }
+  } */
   
 
     /* Footer */
-    .bottom {
+
+ .bottom {
     background-color:#3693ff;
     font-size: 10px;
   }
