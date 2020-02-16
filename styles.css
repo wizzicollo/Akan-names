@@ -168,16 +168,15 @@ flex-direction: row;
   #About {
     height: 100vh;
     background-color:rgb(2, 2, 78); */
-    /* background-image: url(./images/key1.jpeg);
+    background-image: url(./images/key1.jpeg);
       background-repeat: no-repeat; */
-    /* background-size: 800px; */
-    /* background-image: url(./images/akan6.jpeg);
+    background-size: 800px; */
+    background-image: url(./images/akan6.jpeg);
       background-repeat: no-repeat;
       background-size: 1600px;
      width: 100%;
-    } */
-    /* background-color: black; */
-    /* background-image: url(./images/key14.jpeg);
+    background-color: black; */
+    background-image: url(./images/key14.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -191,9 +190,9 @@ flex-direction: row;
     background-image: url(./images/akan6.jpeg);
     background-repeat: no-repeat;
     background-size: 1600px;
-    height: 100vh; */
+    height: 100vh;
   }
-  #About h2 {
+  #About h3 {
     text-align: center;
     font-size: 10rem;
     margin-bottom: 3rem;
