@@ -167,7 +167,7 @@ flex-direction: row;
 
   #About {
     height: 100vh;
-    /* background-color:rgb(2, 2, 78); */
+    background-color:rgb(2, 2, 78); */
     /* background-image: url(./images/key1.jpeg);
       background-repeat: no-repeat; */
     /* background-size: 800px; */
@@ -177,7 +177,7 @@ flex-direction: row;
      width: 100%;
     } */
     /* background-color: black; */
-    /* background-image: url(./images/key14.jpeg); */
+    /* background-image: url(./images/key14.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -187,11 +187,11 @@ flex-direction: row;
     height: 100%;
     width: 100%;
     /* background:rgba(0, 0, 0, 0.6); */
-    padding: 3rem 0;
+    /* padding: 3rem 0;
     background-image: url(./images/akan6.jpeg);
     background-repeat: no-repeat;
     background-size: 1600px;
-    height: 100vh;
+    height: 100vh; */
   }
   #About h2 {
     text-align: center;
@@ -276,7 +276,7 @@ background-size: cover;
     width: 40%;
     margin: auto;
     padding: 20px;
-    /* background:#3693ff ; */
+    background:#3693ff ;
     font-size: 20px;
     font-family: verdana;
     color:white;
