@@ -27,13 +27,13 @@ body {
     
     /* navbar */
   
-  /* #navbar {
+  #navbar {
     display: flex;
     justify-content: space-between;
     background-image: url(./images/ghana5.jpeg);
     opacity: 0.9;
     background-position: center;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     padding: 1.75rem 8rem;
     position: fixed;
     top: 0;
@@ -60,17 +60,17 @@ body {
     color:red;
     font-weight: bolder;
     padding: 1.9rem;
-    font-size: 1.5rem;
-    margin: 0 3.5rem;
+    font-size: 1.3rem;
+    margin: 0 4.6rem;
     border-radius: 5px;
     transition: 0.3s;
     text-align: center;
-    background-color: red;
+    /* background-color: red; */
   }
   #navbar li a:hover {
     background-color: #3693ff;
   }
-   */
+  
   /* Home */
 /* 
   #Home {
@@ -175,6 +175,7 @@ flex-direction: row;
       background-repeat: no-repeat;
       background-size: 1600px;
      width: 100%;
+    } 
     background-color: black; */
     background-image: url(./images/key14.jpeg);
     background-repeat: no-repeat;
@@ -192,7 +193,7 @@ flex-direction: row;
     background-size: 1600px;
     height: 100vh;
   }
-  #About h3 {
+  #About h2 {
     text-align: center;
     font-size: 10rem;
     margin-bottom: 3rem;
@@ -300,7 +301,7 @@ background-size: cover;
 
   #span{
     background-image: url(./images/ghana1.jpeg);
-  } 
+  } */
   
 
     /* Footer */
