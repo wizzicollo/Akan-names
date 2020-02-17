@@ -16,7 +16,7 @@ body {
   }
   
   .container {
-      max-width: 1100px;
+      max-width: 100%;
       margin: auto;
     }
   .text-primary {
@@ -135,15 +135,20 @@ flex-direction: row;
     border-radius: 10px;
     font-weight: bold;
   }
-  #section5 > #activities{
+  #section5 {
+    float: right;
     margin-left:auto;
     margin-right:auto;
     border-collapse:collapse;
-    width:120%;
-    height: 25vh;
+    width:65%;
+    height: 46vh;
     background-color: black;
     float: right;
     flex-direction: column;
+  }
+  .card-text {
+    float: right;
+    font-size: 5px;
   }
   #activities td, #activities th{
     border:1px solid #ddd;
@@ -179,7 +184,7 @@ flex-direction: row;
     background-image: url(./images/akan6.jpeg);
       background-repeat: no-repeat;
       background-size: 1600px;
-     width: 100%;
+     width:100%;
     } 
     background-color: black; */
     background-image: url(./images/key14.jpeg);
@@ -303,10 +308,13 @@ background-size: cover;
     padding: 5px;
     background: white;
   }
-
+  .form-head{
+    color: white;
+  }
+/* 
   #span{
     background-image: url(./images/ghana1.jpeg);
-  } */
+  }  */
   
 
     /* Footer */
