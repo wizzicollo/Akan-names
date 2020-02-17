@@ -48,7 +48,9 @@ function getAkanName() {
 	} else if (female.checked == true) {
 		document.getElementById("alert1").style.display = "block";
 		document.getElementById("span1").innerHTML = daysWeek[dateOfBirth];
+		    "You were born on, " + daysWeek[dateOfBirth];
 		document.getElementById("span2").innerHTML = femaleAkanNames[dateOfBirth];
+		    "your Akan Name is " + femaleAkanNames[dateOfBirth];
 	}
 }
 
