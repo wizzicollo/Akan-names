@@ -1,4 +1,7 @@
-body {
+
+  /* Home Page */
+
+  body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
@@ -19,9 +22,6 @@ body {
       max-width: 100%;
       margin: auto;
     }
- 
- 
-  /* Home */
 
   .texts {
 flex-direction: row;
@@ -108,7 +108,7 @@ flex-direction: row;
    
   }
   }
-  /* About */
+  /* Fill-in-form */
 
   #About {
     height: 100vh;

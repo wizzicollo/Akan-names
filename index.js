@@ -54,7 +54,7 @@ function getAkanName() {
 	}
 }
 
-//refresh button the whole site
+// button refreshes the whole site
 function refreshPage() {
 	window.location.reload();
 }
